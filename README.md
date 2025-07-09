@@ -21,6 +21,12 @@ This project aims to answer key questions about the housing market:
 
 ---
 
+## 🚀 View Live Dashboard
+
+👉 [Click here to view the interactive Power BI dashboard](https://app.powerbi.com/links/Z4t3D7My10?ctid=6d600138-0932-49bd-951c-0d8382b1ee74&pbi_source=linkShare&bookmarkGuid=e701634f-c2b0-4103-b5af-692286a2d0d2)
+
+---
+
 ## 🛠️ Tools & Techniques Used
 
 | Tool/Feature   | Purpose                                  |
